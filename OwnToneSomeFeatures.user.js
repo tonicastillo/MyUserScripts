@@ -9,7 +9,7 @@
 // @match       http://192.168.1.152:3699/
 // @icon        https://owntone.github.io/owntone-server/assets/favicon.ico
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      -
 // @description 16/05/2023, 10:08:37
 // ==/UserScript==
