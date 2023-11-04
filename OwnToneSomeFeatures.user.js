@@ -6,6 +6,7 @@
 // @match       http://192.168.1.151:3699/
 // @match       http://192.168.1.151:3689/
 // @match       http://192.168.1.152:3689/
+// @match       http://192.168.1.152:3699/
 // @icon        https://owntone.github.io/owntone-server/assets/favicon.ico
 // @grant       none
 // @version     1.0
