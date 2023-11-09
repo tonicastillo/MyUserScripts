@@ -1,10 +1,11 @@
 // ==UserScript==
+// @version     1.0.2
 // @name        Get branch name from story - shortcut.com
 // @namespace   Violentmonkey Scripts
 // @match       https://app.shortcut.com/*
 // @grant       none
-// @version     1.0
 // @author      Toni Castillo
+// @updateURL		https://github.com/tonicastillo/MyUserScripts/raw/main/ShortcutGetBranchName.user.js
 // @icon        https://app.shortcut.com/static/images/apple-touch-icon-11622bc99c.png
 // @description Add custom branch name
 // ==/UserScript==

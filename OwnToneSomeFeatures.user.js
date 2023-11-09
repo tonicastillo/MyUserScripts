@@ -1,4 +1,5 @@
 // ==UserScript==
+// @version     1.0.1
 // @name        OwnTone more Features
 // @namespace   Violentmonkey Scripts
 // @match       http://macbookserver.local:3699/
@@ -7,9 +8,9 @@
 // @match       http://192.168.1.151:3689/
 // @match       http://192.168.1.152:3689/
 // @match       http://192.168.1.152:3699/
+// @updateURL		https://github.com/tonicastillo/MyUserScripts/raw/main/OwnToneSomeFeatures.user.js
 // @icon        https://owntone.github.io/owntone-server/assets/favicon.ico
 // @grant       none
-// @version     1.0.1
 // @author      -
 // @description 16/05/2023, 10:08:37
 // ==/UserScript==
