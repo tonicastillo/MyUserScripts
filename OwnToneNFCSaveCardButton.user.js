@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OwnTone NFC Save Card Button
 // @namespace    
-// @version      0.1
+// @version      0.2
 // @description  
 // @author       Toni Castillo
 // @match        http://192.168.1.152:3679/
