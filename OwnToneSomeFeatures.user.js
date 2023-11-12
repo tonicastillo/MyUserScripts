@@ -1,7 +1,7 @@
 // ==UserScript==
 // @version     1.0.1
 // @name        OwnTone more Features
-// @namespace   Violentmonkey Scripts
+// @namespace   
 // @match       http://macbookserver.local:3699/
 // @match       http://macbookserver.local:3689/
 // @match       http://192.168.1.151:3699/
