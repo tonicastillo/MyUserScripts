@@ -6,6 +6,7 @@
 // @author       Toni Castillo
 // @updateURL    https://github.com/tonicastillo/MyUserScripts/raw/main/ThinkDiffusionKohyaAutoScroll.user.js
 // @match        https://*.thinkdiffusion.xyz/images/file_download/%2Fkohya%2Flogging/kohya.txt
+// @icon         https://github.com/tonicastillo/MyUserScripts/raw/main/assets/ThinkDiffusionKohyaAutoScroll.svg
 // @grant        none
 // ==/UserScript==
 
