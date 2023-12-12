@@ -22,7 +22,7 @@
                 var albumId = hash.substr(15)
 
                 var b = document.createElement('a');
-                b.href = "http://192.168.1.253#"+albumId
+                b.href = "http://musicboxsalon.local/#"+albumId
                 b.target = "_blank"
                 b.className="nfcmusicboxbutton"
                 b.innerHTML = "Save NFC"
