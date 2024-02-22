@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version     0.1
+// @version     0.2
 // @name        CSS Outline All
 // @namespace
 // @match       http://localhost:*/*
