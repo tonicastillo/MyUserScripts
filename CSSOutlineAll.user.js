@@ -13,19 +13,8 @@
 
 (function () {
   "use strict";
-
-  document.addEventListener("keydown", function (e) {
-    if (e.key === "o") {
-      var styleOld = document.getElementById("outlineAll");
-      if (styleOld) {
-        styleOld.remove();
-        return;
-      } else {
-        var style = document.createElement("style");
-        style.id = "outlineAll";
-        style.innerHTML = "* { outline: 1px solid rgba(0,0,0,0.1) !important; }";
-        document.head.appendChild(style);
-      }
-    }
-  });
+  var style = document.createElement("style");
+  style.id = "outlineAll";
+  style.innerHTML = "* { outline: 1px solid rgba(0,0,0,0.1) !important; }";
+  document.head.appendChild(style);
 })();
