@@ -4,7 +4,9 @@
 // @version      0.2
 // @description  
 // @author       Toni Castillo
-// @match        http://192.168.1.152:3679/
+// @match        http://192.168.1.152:3679/*
+// @match        http://192.168.1.152:3689/*
+// @match        http://192.168.1.152:3699/*
 // @updateURL    https://github.com/tonicastillo/MyUserScripts/raw/main/OwnToneNFCSaveCardButton.user.js
 // @icon         https://owntone.github.io/owntone-server/assets/favicon.ico
 // @grant        none
