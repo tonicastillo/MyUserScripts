@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Download GitHub Folder
+// @name         GitHub: Download Folder
 // @namespace    https://github.com/tonicastillo
-// @version      1.0
+// @version      1.1
 // @description  Download GitHub folders using download-directory.github.io (run from menu)
 // @author       @tonicq
-// @match        https://github.com/*/*/tree/*
+// @match        https://github.com/*/*/tree/*/**
 // @grant        GM_registerMenuCommand
 // @downloadURL  https://raw.githubusercontent.com/tonicastillo/MyUserScripts/refs/heads/main/src/github_io_download_folder.user.js
 // @updateURL    https://raw.githubusercontent.com/tonicastillo/MyUserScripts/refs/heads/main/src/github_io_download_folder.user.js
